@@ -1,4 +1,4 @@
-<!-- v2.0 -->
+<!-- v2.1 -->
 # 个人信息
 
 ![avatar](http://hd1.dahe100.cn/examples/20200423203957.png)
@@ -48,11 +48,6 @@
 > > 前端：volecity/jquery/bootstrap<br/>
 > > 后台：java<br/>
 
-### 客户端小工具
-
-> 简介：业务需求，提供可视化工具<br/>
-> 技术栈应用：python3
-
 ### **于2018年，被评为年度优秀员工。**
   
 ## 心脉医学 （ 2016年8月 ~ 2017年11月 ）
@@ -78,16 +73,13 @@
 
 >  [vue-pdf插件](https://www.npmjs.com/package/vue-my-pdf-viewer)：基于pdf.js封装的vue插件<br/>
 >  [个人小程序exCheck](https://github.com/wongyuye/xiaochenxu.express_check) ：通过对接第三方服务接口，查快递小程序<br/>
->  [windows小工具](https://github.com/wongyuye/patchDownload)：客户端小工具，基于业务的批量报告下载工具
 
 # 技能清单
 以下均为我熟练使用的技能
 
 ```
-- 开发语言：HTML/CSS/Javascript/Node/Java/Python3
-- 前端框架：Vue
-- 前端库：Vant-ui/Element-ui/Avue
-- 前端工具：TypeScript
+- 开发语言：Javascript/Node/Java
+- 前端工具：vue/TypeScript/webpack
 ```
 
 # 爱好
