@@ -1,3 +1,4 @@
+<!-- v2.0 -->
 # 个人信息
 
 ![avatar](http://hd1.dahe100.cn/examples/20200423203957.png)
@@ -19,6 +20,9 @@
 - Email：wyuye518@gmail.com
 - 微信号:  wyuye_
 ```
+
+# 个人描述
+> 主攻前端和NodeJs开发，3年前端和2年全栈开发经验，对技术充满热情，享受coding以及持续学习的能力，有管理团队经验，善于利用最新技术解决各种业务场景问题。熟悉web开发，有多个线上开发应用，有java和python开发经验。
 
 # 工作经历
 
@@ -84,19 +88,6 @@
 - 前端框架：Vue
 - 前端库：Vant-ui/Element-ui/Avue
 - 前端工具：TypeScript
-- 数据库相关：MySql/PostgreSQL
-- 部署平台：Centos/Tomcat/Ngnix
-- 版本管理：Svn/Git
-- 开放平台：微信公众号/小程序
-- 其他工具：Photoshop
-```
-
-# 个人优势
-```
-- 对技术充满热情，享受coding以及持续的学习能力
-- 一年半的团队管理经验
-- 沟通协作能力出色
-- 4年医疗行业经验，以及2年的电商平台经验
 ```
 
 # 爱好
