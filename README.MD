@@ -1,4 +1,4 @@
-<!-- v2.3 -->
+<!-- v2.4 -->
 ## 个人信息
 
 ![头像](http://hd1.dahe100.cn/examples/20200423203957.png)
@@ -59,13 +59,13 @@
 > 成果：支持日均1000万+流水<br/>
 > 技术栈应用：jquery
   
-### 开源项目
+## 开源项目
 >  [vue-pdf插件](https://www.npmjs.com/package/vue-my-pdf-viewer)：基于pdf.js封装的vue插件<br/>
 >  [个人小程序exCheck](https://github.com/wongyuye/xiaochenxu.express_check) ：查快递小程序<br/>
 
 ## 技能清单
 ```
-- 开发语言：Javascript/NodeJs/Java
+- 开发语言：JavaScript/NodeJs/Java
 - 前端工具：Vue/TypeScript/Webpack
 ```
 
